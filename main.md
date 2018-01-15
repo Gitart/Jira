@@ -21,7 +21,7 @@ Sample for update exsisting task by code C12
 // *****************************************************************************************************************************
 func api_update_rls(w http.ResponseWriter, r *http.Request){
 
-	// Строка запроса
+    // Строка запроса
     var data Mst
     url:="http://jira.server.com:11000/rest/api/2/issue/C12"
 
@@ -29,7 +29,7 @@ func api_update_rls(w http.ResponseWriter, r *http.Request){
     Data:=`{"fields":{
     	               "description":         "Новая заявка задача для получения версий Верс. Ver: 122330001-1111", 
     	               "customfield_11110":   "Обновлен релиз № 000 235467",
-    	               "labels": ["Reliase",  "New"],
+    	               "labels":              ["Reliase",  "New"],
     	               "customfield_11013":   "Am-000001",
     	               "customfield_11310":   "Sprint 00123",
     	               "customfield_10510":   123.00,
@@ -39,7 +39,6 @@ func api_update_rls(w http.ResponseWriter, r *http.Request){
     	             }
     	    }`
     
-
     var jsonStr = []byte(Data)
 
     // Запрос  к JIRA
