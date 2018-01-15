@@ -11,7 +11,7 @@ Sample for update exsisting task by code C12
 // Company : 
 // 
 // Контроль выполнения 
-// http://jira.unity-bars.com:11000/rest/api/2/issue/CA-12
+// http://jira.server.com:11000/rest/api/2/issue/CA-12
 // 
 // Запуск выполнения 
 // http://localhost:5555/api/updatetask/
