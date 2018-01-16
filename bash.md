@@ -96,3 +96,7 @@ curl -D- -u "$user":"$pw" -X PUT -H "Content-Type: application/json" https://$se
 ```
 curl -D- -u "$user":"$pw" -X PUT -H "Content-Type: application/json" https://$server/rest/api/2/issue/$jira_key --data '{"customfield_12345":{"value":"myValue"}}'
 ```
+
+
+[link](https://sites.google.com/site/mrxpalmeiras/jira-api)
+
