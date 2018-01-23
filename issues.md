@@ -10,6 +10,11 @@
 Проблема JIRA обычно выглядит так (нажмите, чтобы увеличить изображение):
 [https://confluence.atlassian.com/jira064/files/720416138/720416139/3/1442924442926/red_nerd_view_issue_anno1.png]
 
+
+## Link
+[Description](https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html)
+
+## Fields Issues
 |Field|Description
 |---|---|
 |Project |Родительский проект, к которому относится проблема. В этом случае Angry Nerds.
