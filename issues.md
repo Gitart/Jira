@@ -8,7 +8,7 @@
 проблемам.
 
 Проблема JIRA обычно выглядит так (нажмите, чтобы увеличить изображение):
-[https://confluence.atlassian.com/jira064/files/720416138/720416139/3/1442924442926/red_nerd_view_issue_anno1.png]
+(https://confluence.atlassian.com/jira064/files/720416138/720416139/3/1442924442926/red_nerd_view_issue_anno1.png)
 
 
 ## Link
